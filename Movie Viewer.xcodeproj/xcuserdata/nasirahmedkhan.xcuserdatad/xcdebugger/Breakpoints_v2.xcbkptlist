@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6F64FC44-657C-42A8-8113-65ED60254721"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A9ECC2D-7D23-41CC-A049-E842AC521F54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Viewer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getPopular()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A9ECC2D-7D23-41CC-A049-E842AC521F54 - 5eaf53ea50d96e72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Viewer.ViewController.getPopular() -&gt; ()"
+                  moduleName = "Movie Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirahmedkhan/Documents/Git/Movie%20Viewer/Movie%20Viewer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "0A9ECC2D-7D23-41CC-A049-E842AC521F54 - 63ca9fc9361dc248"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Movie_Viewer.PopularMovies, Swift.Error&gt;) -&gt; () in Movie_Viewer.ViewController.getPopular() -&gt; ()"
+                  moduleName = "Movie Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirahmedkhan/Documents/Git/Movie%20Viewer/Movie%20Viewer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
